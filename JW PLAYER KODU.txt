@@ -24,8 +24,8 @@
 
   <script data-cfasync="false" type="text/javascript">
     jwplayer('playerjxJRqLMFuJaA').setup({
-    file: 'http://bb123.pro:1453/kingdiablo/x7Hf1psD4R/189',
-    file: 'http://bb123.pro:1453/kingdiablo/x7Hf1psD4R/189',
+    file: 'BURAYA LİNK YAPIŞTIRIN',
+    file: 'BURAYA LİNK YAPIŞTIRIN',
         aboutlink: 'http://skysports.com',
         controls: 'true',
         title: 'Football Live Streamings.Com',
